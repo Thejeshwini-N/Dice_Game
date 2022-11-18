@@ -1,0 +1,34 @@
+.container
+{
+text-align: center;
+margin:auto;
+width:70%
+}
+.dice
+{
+  text-align: auto;
+  display: inline-block;
+}
+body
+{
+  background-color:gray;
+}
+h1
+{
+  font-size: 2.5rem;
+  font-family:cursive;
+}
+p
+{
+  font-size: 2rem;
+  font-family:cursive;
+}
+img
+{
+  width: 50%;
+}
+footer
+{
+  text-align: center;
+  color: black;
+}
